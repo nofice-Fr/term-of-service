@@ -329,9 +329,9 @@ L’utilisateur est invité à consulter cette politique avant d’utiliser le B
 
 Les présentes CGU sont soumises au droit applicable au lieu d’établissement de l’exploitant de Masterix, sous réserve des règles impératives applicables au consommateur ou à l’utilisateur concerné.
 
-**Exploitant : [NOM OU RAISON SOCIALE]**  
-**Adresse : [ADRESSE]**  
-**E-mail : [ADRESSE E-MAIL]**
+**Exploitant : 9wpk on discord**  
+**Adresse : 77130**  
+**E-mail : tixbear2.0@gmail.com**
 
 ---
 
@@ -339,7 +339,7 @@ Les présentes CGU sont soumises au droit applicable au lieu d’établissement 
 
 Pour toute question concernant Masterix, ses fonctionnalités ou les présentes CGU :
 
-**Contact : [ADRESSE E-MAIL OU LIEN DE CONTACT]**
+**Contact : tixbear2.0@gmail.com**
 
 Pour toute demande relative aux données personnelles, veuillez utiliser les coordonnées indiquées dans la Politique de Confidentialité.
 
