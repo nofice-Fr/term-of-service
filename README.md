@@ -352,4 +352,4 @@ En utilisant Masterix, vous reconnaissez avoir pris connaissance des présentes 
 Si vous n’acceptez pas ces documents, vous devez cesser d’utiliser Masterix et retirer le Bot du serveur concerné.
 
 **Masterix — Bot Discord**  
-**Version 1.0 — [DATE]**
+**Version 1.0 — 29/10/2026**
