@@ -1,7 +1,7 @@
 # CONDITIONS GÉNÉRALES D’UTILISATION
 ## Masterix — Bot Discord
 
-**Dernière mise à jour : [DATE]**  
+**Dernière mise à jour : 28/10/2026**  
 **Version : 1.0**
 
 ---
